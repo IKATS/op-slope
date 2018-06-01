@@ -21,7 +21,7 @@ from unittest import skip
 
 import numpy as np
 
-from ikats.algo.op-slope import LOGGER, compute_slope
+from ikats.algo.slope import LOGGER, compute_slope
 from ikats.core.resource.api import IkatsApi, DTYPE
 
 
