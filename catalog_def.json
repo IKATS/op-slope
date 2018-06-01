@@ -10,7 +10,7 @@
     "label": "Slope",
     "description": "Compute slope on TS list using spark",
     "algorithm": "slope",
-    "entry_point": "ikats.algo.core.slope::compute_slope",
+    "entry_point": "op-slope::compute_slope",
     "inputs": [
       {
         "name": "ts_list",
