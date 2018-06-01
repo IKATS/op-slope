@@ -23,7 +23,7 @@
     "outputs": [
       {
         "name": "ts_list",
-        "label": "TS",
+        "label": "TS list",
         "description": "List of computed TS (same order as input)",
         "type": "ts_list"
       }
