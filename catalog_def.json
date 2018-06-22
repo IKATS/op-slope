@@ -3,7 +3,7 @@
   "label": "Slope",
   "description": "Compute slope on TS list using spark",
   "family": "Preprocessing_TS__Transforming",
-  "entry_point": "op-slope::compute_slope",
+  "entry_point": "slope.slope::compute_slope",
   "inputs": [
     {
       "name": "ts_list",
